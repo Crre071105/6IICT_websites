@@ -29,6 +29,10 @@ nav {
     position: absolute;
 }
 
+a.test{
+    float:left
+}
+
 .menu {
     display: block;
     width: 70px;
