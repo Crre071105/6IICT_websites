@@ -1,3 +1,6 @@
+h1{
+	font-family: 'arial';
+}
 body {
 	background-color: grey;
 	}
@@ -7,7 +10,7 @@ header, aside, footer, article {
 	}
 
 header, footer {
-	background-color: white;
+	background-color: rgb(255, 255, 255);
 	padding: 5px;
 	}
 
@@ -16,7 +19,7 @@ header {
 	margin-top: -8px;
 	text-align: center;
 	padding-top: 80px;
-	color: white;
+	color: rgb(255, 255, 255);
 	}
 	
 h1 {
@@ -49,4 +52,8 @@ p {
 	font-style: normal;
 	font-weight: 200;
 	margin: 10px;
+}
+p.inleiding{
+	font-style: italic;
+    font-weight: bold;
 }
